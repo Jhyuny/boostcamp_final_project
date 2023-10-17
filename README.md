@@ -55,14 +55,14 @@ python service.py  # ip 및 port 변경하여 실행하면 로컬에서 웹페�
 추가 하고 싶은 기기 등록 → 새로운 데이터셋 구축 및 모델 자동 학습 후 물체 인식하여 조작
 ```
 
-## 사용 기술
+## 프로세스
 <img src=https://github.com/boostcampaitech5/level3_cv_finalproject-cv-05/assets/50921080/d3cc5bb5-37e8-4fa8-aa50-266378c765d3 width="700" height="300"/>
 
-## 프로세스
-<img src="https://github.com/boostcampaitech5/level3_cv_finalproject-cv-05/assets/50921080/859675d0-b1db-4374-8e8d-144878d2667a" width="700" height="300"/>
+## 사용 기술
+<img src="https://github.com/boostcampaitech5/level3_cv_finalproject-cv-05/assets/50921080/4868cbc1-07b3-4529-8a83-c989f7417e49" width="700" height="300"/>
 
 ## 사용 데이터셋
-<img src="https://github.com/boostcampaitech5/level3_cv_finalproject-cv-05/assets/50921080/4868cbc1-07b3-4529-8a83-c989f7417e49" width="700" height="300"/>
+<img src="https://github.com/boostcampaitech5/level3_cv_finalproject-cv-05/assets/50921080/859675d0-b1db-4374-8e8d-144878d2667a" width="700" height="300"/>
 
 ```sh
 - 모델 학습에 사용한 기본 데이터셋입니다. 가정에서 흔히 볼 수 있는 물체로 선택
